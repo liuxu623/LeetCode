@@ -1,3 +1,5 @@
+package main
+
 func twoSum(nums []int, target int) []int {
 	m1 := make(map[int]int)
 	m2 := make(map[int]bool)
